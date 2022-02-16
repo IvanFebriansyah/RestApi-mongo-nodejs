@@ -1,0 +1,5 @@
+db
+username = dartman
+password = Qkqo3zCGYEWGF55f
+IP Acces
+23.82.193.157/32
